@@ -9,8 +9,8 @@
 해당 파일을 클릭해서 들어간 후 흰색 [download ZIP] 부분을 누르면 됩니다.
 
 # 각종 링크
-* [파이썬 및 주피터 노트북 설치](https://datadoctorblog.com/2022/10/26/Py-Jupyter-Notebook-Install/)
-
+* [파이썬 및 주피터 노트북 설치](https://datadoctorblog.com/2022/10/26/Py-Jupyter-Notebook-Install/)  
+* [Google Colab](https://colab.research.google.com/)  
 
 # 기타
 연락처: contact@rloha.io
